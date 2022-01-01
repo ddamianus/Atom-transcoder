@@ -16,3 +16,4 @@ OBRÁZEK MYŠLENKY
 3. 4G/LTE Mobile Hotspot or any other source of wifi internet
 4. PC with runing OBS as last instance in our stream chain
 
+To see it in action check out my livestream or VODs @ https://www.twitch.tv/ddamianus
