@@ -17,7 +17,7 @@ OBRÁZEK MYŠLENKY
 4. PC with runing OBS as last instance in our stream chain
 
 ## Twitch
-To see it in action check out my livestream or VODs @ https://www.twitch.tv/ddamianus
+To see it in action check out my IRL livestream or VODs @ https://www.twitch.tv/ddamianus
 
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee or rpi **zero2** 😂 **not required but appreciated** 😉
