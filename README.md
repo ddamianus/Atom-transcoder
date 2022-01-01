@@ -1,2 +1,2 @@
 # Atom-transcoder
-Raspberry pi (zero w) transcoder for IRL streams based on SRT protocol
+This is a transcoder based on Raspberry pi (zero w) for IRL streams through SRT protocol
