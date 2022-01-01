@@ -16,4 +16,10 @@ OBRÁZEK MYŠLENKY
 3. 4G/LTE Mobile Hotspot or any other source of wifi internet
 4. PC with runing OBS as last instance in our stream chain
 
+## Twitch
 To see it in action check out my livestream or VODs @ https://www.twitch.tv/ddamianus
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee or rpi zero2 :D **not required but appreciated**
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=ZLMLHHMPGEVQG&no_recurring=0&currency_code=USD)
